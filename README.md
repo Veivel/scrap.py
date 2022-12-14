@@ -66,3 +66,6 @@ Kalkulator jumlah *Greenhouse Emissions* yang telah dikurangi oleh user dengan m
 - User bisa deposit sampah
 - User bisa menukar poin
 - User bisa melihat green footprint mereka
+
+## Scrap.py Mobile App
+[Link Repositori](https://github.com/arkanalexei/scrap.py-mobile)
